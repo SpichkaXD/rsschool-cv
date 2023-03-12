@@ -30,7 +30,7 @@
 
 ---
 
-### 🛠 &nbsp;_Code Example_:
+### ✏️ &nbsp;_Code Example_:
 ```
 function multiply(a, b){
   return a * b
