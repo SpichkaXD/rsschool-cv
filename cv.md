@@ -1,7 +1,3 @@
- <a href=https://app.rs.school>
-        </a>
-        <img src="https://app.rs.school/static/images/logo-rsschool3.png" height="36">
-
 ## Lubchik Egor
 
 ### **_Contacts:_**
