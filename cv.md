@@ -10,6 +10,9 @@
 
 ##### 🌐 Telegram: [@MrSpichkaXD](https://t.me/MrSpichkaXD)
 
+##### 🔗 [linkedIn](https://www.linkedin.com/in/егор-любчик-481721247/)
+
+
 ---
 
 ### **_About me:_**
